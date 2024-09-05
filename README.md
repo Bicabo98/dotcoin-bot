@@ -2,7 +2,7 @@
 
 dotcoin bot auto tap multiple account https://t.me/dotcoin_bot
 
-<img width="592" alt="Code_FSk1Mykde5" src="https://github.com/user-attachments/assets/bcdda8ef-d035-429e-9c40-b73698faf92d">
+<img width="592" alt="Code_FSk1Mykde5" src="https://github.com/user-attachments/assets/ab269ecc-c59f-4a0f-8b20-d556d7a88fd9">
 
 ## Features
 - Auto create token (login by query_id)
